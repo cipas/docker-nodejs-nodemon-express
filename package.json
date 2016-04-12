@@ -1,0 +1,28 @@
+{
+  "name": "docker-nodemon-nodejs-express",
+  "version": "1.0.0",
+  "description": "Quick start Node.js + Express on Docker with nodemon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cipas/docker-nodejs-nodemon-express.git"
+  },
+  "keywords": [
+    "Docker",
+    "Node.js",
+    "Express",
+    "nodemon"
+  ],
+  "author": "cipas https://github.com/cipas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cipas/docker-nodejs-nodemon-express/issues"
+  },
+  "homepage": "https://github.com/cipas/docker-nodejs-nodemon-express#readme",
+  "dependencies": {
+    "express": "*"
+  }
+}
